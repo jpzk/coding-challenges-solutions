@@ -1,0 +1,12 @@
+[submodule "portfolio-fp-example"]
+	path = portfolio-fp-example
+	url = git@github.com:jpzk/portfolio-fp-example.git
+	branch = master
+[submodule "finatra-example"]
+	path = finatra-example
+	url = git@github.com:jpzk/finatra-example.git
+	branch = master
+[submodule "elevators-in-scala"]
+	path = elevators-in-scala
+	url = git@github.com:jpzk/elevators-in-scala.git
+	branch = master
