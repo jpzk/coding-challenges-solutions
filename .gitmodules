@@ -10,3 +10,6 @@
 	path = elevators-in-scala
 	url = git@github.com:jpzk/elevators-in-scala.git
 	branch = master
+[submodule "akka-dp-example"]
+	path = akka-dp-example
+	url = git@github.com:jpzk/akka-dp-example.git
